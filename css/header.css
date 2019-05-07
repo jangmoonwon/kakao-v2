@@ -3,4 +3,19 @@
   color: white;
   padding: 5px 10px 15px 10px;
   display: flex;
+  flex-direction: column;
+}
+.top-header .header__top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.top-header .header__top .header__column i {
+  margin-right: 8px;
+}
+
+.top-header .header__bottom {
+  display: flex;
+  justify-content: space-between;
 }
