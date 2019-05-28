@@ -1,0 +1,37 @@
+
+.profile{
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;  
+}
+
+
+.profile .profile__status{
+    padding: 10px;
+    border: 1px solid grey;
+}
+
+.profile .profile__status-title{
+    padding: 10px;
+
+}
+
+.username{
+    margin-bottom: 20px;
+}
+
+.username__nickname{
+
+font-size: 25px;
+font-weight: 700;
+}
+
+.username__full{
+    color: darkgray;
+}
+
+.btn__name{
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+}
